@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * alloc_error -  Allocation error
+ * alloc_error -  gives an allocation error
  * storing the address of the buffer containing the text into *b.
  *
  * @buffer: buffer to check
